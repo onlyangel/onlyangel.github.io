@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on OnlyAngel Place</title>
+      <title>Posts on OnlyAngel Place </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>http://onlyangel.github.io/post/</link>
-    <description>Recent content in Posts on OnlyAngel Place</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2015 23:38:19 -0500</lastBuildDate>
-    <atom:link href="http://onlyangel.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <updated>Thu, 14 May 2015 23:38:19 CDT</updated>
     
     <item>
       <title>Am I the only one (Wayra MX)</title>
       <link>http://onlyangel.github.io/2015/05/wayrasimilarities/</link>
-      <pubDate>Thu, 14 May 2015 23:38:19 -0500</pubDate>
+      <pubDate>Thu, 14 May 2015 23:38:19 CDT</pubDate>
       
       <guid>http://onlyangel.github.io/2015/05/wayrasimilarities/</guid>
       <description>&lt;p&gt;The last few times I had seen the &amp;ldquo;&lt;a href=&#34;http://www.hbo.com/silicon-valley&#34;&gt;Silicon Valley&lt;/a&gt;&amp;rdquo; HBO Series a new character had appear named &lt;strong&gt;[Russ Hanneman][Russ Hanneman]&lt;/strong&gt; this character is supposedly &lt;em&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Mark_Cuban&#34;&gt;Mark Cuban&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;http://www.quora.com/Silicon-Valley-Season-2-Episode-3-Bad-Money/Is-Russ-Hanneman-supposed-to-be-Sean-Parker&#34;&gt;Quora&lt;/a&gt;). This character adds some interesting (and problematic) interactions into the &lt;a href=&#34;http://www.piedpiper.com/&#34;&gt;Pied Piper Company&lt;/a&gt;.&lt;/p&gt;
@@ -34,7 +34,7 @@
     <item>
       <title>Lift</title>
       <link>http://onlyangel.github.io/2015/05/lift/</link>
-      <pubDate>Wed, 13 May 2015 23:28:03 -0500</pubDate>
+      <pubDate>Wed, 13 May 2015 23:28:03 CDT</pubDate>
       
       <guid>http://onlyangel.github.io/2015/05/lift/</guid>
       <description>&lt;div class=&#34;embed video-player&#34;&gt;
@@ -65,7 +65,7 @@
     <item>
       <title>This is the fist post with gohugo.io</title>
       <link>http://onlyangel.github.io/2015/05/first/</link>
-      <pubDate>Wed, 13 May 2015 13:24:28 -0500</pubDate>
+      <pubDate>Wed, 13 May 2015 13:24:28 CDT</pubDate>
       
       <guid>http://onlyangel.github.io/2015/05/first/</guid>
       <description>&lt;p&gt;Thanks for the support and&lt;/p&gt;
