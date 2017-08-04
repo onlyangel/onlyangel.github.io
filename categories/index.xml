@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>https://a.ngel.es/categories/</link>
+    <link>http://a.ngel.es/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,28 +11,28 @@
     
     <item>
       <title>Funny</title>
-      <link>https://a.ngel.es/categories/funny/</link>
+      <link>http://a.ngel.es/categories/funny/</link>
       <pubDate>Thu, 14 May 2015 23:38:19 -0500</pubDate>
       
-      <guid>https://a.ngel.es/categories/funny/</guid>
+      <guid>http://a.ngel.es/categories/funny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spirituality</title>
-      <link>https://a.ngel.es/categories/spirituality/</link>
+      <link>http://a.ngel.es/categories/spirituality/</link>
       <pubDate>Wed, 13 May 2015 23:28:03 -0500</pubDate>
       
-      <guid>https://a.ngel.es/categories/spirituality/</guid>
+      <guid>http://a.ngel.es/categories/spirituality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wayra</title>
-      <link>https://a.ngel.es/categories/wayra/</link>
+      <link>http://a.ngel.es/categories/wayra/</link>
       <pubDate>Thu, 14 May 2015 23:38:19 -0500</pubDate>
       
-      <guid>https://a.ngel.es/categories/wayra/</guid>
+      <guid>http://a.ngel.es/categories/wayra/</guid>
       <description></description>
     </item>
     

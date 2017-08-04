@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spirituality on </title>
-    <link>https://a.ngel.es/categories/spirituality/</link>
+    <link>http://a.ngel.es/categories/spirituality/</link>
     <description>Recent content in Spirituality on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Lift</title>
-      <link>https://a.ngel.es/post/lift/</link>
+      <link>http://a.ngel.es/post/lift/</link>
       <pubDate>Wed, 13 May 2015 23:28:03 -0500</pubDate>
       
-      <guid>https://a.ngel.es/post/lift/</guid>
+      <guid>http://a.ngel.es/post/lift/</guid>
       <description>&lt;div class=&#34;embed video-player&#34;&gt;
   &lt;iframe 
     class=&#34;youtube-player&#34; 
