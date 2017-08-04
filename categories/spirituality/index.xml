@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spirituality on </title>
-    <link>https://a.ngel.es/categories/spirituality/index.xml</link>
+    <link>https://a.ngel.es/categories/spirituality/</link>
     <description>Recent content in Spirituality on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jose Angel Espinoza Portillo</copyright>
-    <atom:link href="/categories/spirituality/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 May 2015 23:28:03 -0500</lastBuildDate>
+    <atom:link href="/categories/spirituality/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lift</title>
