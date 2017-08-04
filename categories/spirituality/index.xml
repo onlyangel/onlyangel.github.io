@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Spirituality on OnlyAngel Place </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://onlyangel.github.io/categories/spirituality/</link>
+    <title>Spirituality on </title>
+    <link>https://onlyangel.github.io/categories/spirituality/index.xml</link>
+    <description>Recent content in Spirituality on </description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-    
-    <updated>Wed, 13 May 2015 23:28:03 CDT</updated>
+    <copyright>&amp;copy; 2017 Jose Angel Espinoza Portillo</copyright>
+    <atom:link href="/categories/spirituality/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lift</title>
-      <link>http://onlyangel.github.io/2015/05/lift/</link>
-      <pubDate>Wed, 13 May 2015 23:28:03 CDT</pubDate>
+      <link>https://onlyangel.github.io/post/lift/</link>
+      <pubDate>Wed, 13 May 2015 23:28:03 -0500</pubDate>
       
-      <guid>http://onlyangel.github.io/2015/05/lift/</guid>
+      <guid>https://onlyangel.github.io/post/lift/</guid>
       <description>&lt;div class=&#34;embed video-player&#34;&gt;
   &lt;iframe 
     class=&#34;youtube-player&#34; 
