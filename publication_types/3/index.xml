@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on </title>
-    <link>http://a.ngel.es/publication/</link>
-    <description>Recent content in Publications on </description>
+    <title>3 on </title>
+    <link>http://a.ngel.es/publication_types/3/</link>
+    <description>Recent content in 3 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jose Angel Espinoza Portillo</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/3/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fake news</title>
@@ -16,7 +16,8 @@
       <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://a.ngel.es/publication/iba-fake-news/</guid>
-      <description></description>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://a.ngel.es/publication/iba-fake-news/</loc>
+      <lastmod>2017-06-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://a.ngel.es/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -104,15 +113,6 @@
     
     <url>
     
-      <loc>http://a.ngel.es/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://a.ngel.es/post/wayrasimilarities/</loc>
       <lastmod>2015-05-14T23:38:19-05:00</lastmod>
     </url>
@@ -158,15 +158,6 @@
     
     <url>
     
-      <loc>http://a.ngel.es/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://a.ngel.es/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -177,18 +168,8 @@
     
     <url>
     
-      <loc>http://a.ngel.es/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://a.ngel.es/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>http://a.ngel.es/publication_types/7/</loc>
+      <lastmod>2017-06-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -267,7 +248,7 @@
     <url>
     
       <loc>http://a.ngel.es/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
