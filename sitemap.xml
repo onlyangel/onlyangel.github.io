@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://a.ngel.es/project/inteligent-bots/</loc>
+      <lastmod>2017-08-12T10:53:15-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://a.ngel.es/post/dominosapp/</loc>
       <lastmod>2017-08-12T08:10:44-05:00</lastmod>
     </url>
@@ -142,6 +151,16 @@
     
     <url>
     
+      <loc>http://a.ngel.es/tags/bots/</loc>
+      <lastmod>2017-08-12T10:53:15-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://a.ngel.es/categories/</loc>
       <priority>0</priority>
     </url>
@@ -152,7 +171,7 @@
     <url>
     
       <loc>http://a.ngel.es/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-08-12T10:53:15-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -181,6 +200,16 @@
     
     <url>
     
+      <loc>http://a.ngel.es/tags/machine-learning/</loc>
+      <lastmod>2017-08-12T10:53:15-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://a.ngel.es/tags/mobile/</loc>
       <lastmod>2017-08-12T08:10:44-05:00</lastmod>
       <priority>0</priority>
@@ -192,7 +221,7 @@
     <url>
     
       <loc>http://a.ngel.es/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-08-12T10:53:15-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -203,6 +232,16 @@
     
       <loc>http://a.ngel.es/publication_types/</loc>
       <lastmod>2017-06-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://a.ngel.es/tags/social-media/</loc>
+      <lastmod>2017-08-12T10:53:15-05:00</lastmod>
       <priority>0</priority>
     </url>
     

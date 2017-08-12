@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bots on </title>
+    <link>http://a.ngel.es/tags/bots/</link>
+    <description>Recent content in Bots on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Jose Angel Espinoza Portillo</copyright>
+    <lastBuildDate>Sat, 12 Aug 2017 10:53:15 -0500</lastBuildDate>
+    <atom:link href="/tags/bots/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Inteligent Bots</title>
+      <link>http://a.ngel.es/project/inteligent-bots/</link>
+      <pubDate>Sat, 12 Aug 2017 10:53:15 -0500</pubDate>
+      
+      <guid>http://a.ngel.es/project/inteligent-bots/</guid>
+      <description>&lt;p&gt;A few years ago I was asked to create a bot network that can handle around 30,000 bots. We end creating an incredibly complex campaign.&lt;/p&gt;
+
+&lt;p&gt;The objective was to target people that talk about an specific subject. Once we found those persons we analise who they follow and how those persons write. Then we train a simple DNN written by me (there doesn&amp;rsquo;t exists Tensor Flow or nothing like that) for every targeted person and the platform started to write random texts that sound similar to that the targeted user are used to see in a series of bots assigned to that individual person. That&amp;rsquo;s how we make them look real.&lt;/p&gt;
+
+&lt;p&gt;Eventually from a different neural network we start talking about the subject we target initially trying to write positively or negatively depending in the campaign in such way that the bots could influence the readers that at this moment normaly have a dozen of organic followers that are usually some of the targeted users.&lt;/p&gt;
+
+&lt;p&gt;With this methodology we get to have up to 31k bots working at the same time creating their own content, looking real.&lt;/p&gt;
+
+&lt;p&gt;And all this written in PHP and more than 5 years ago.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
