@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://a.ngel.es/post/dominosapp/</loc>
+      <lastmod>2017-08-12T08:10:44-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://a.ngel.es/publication/iba-fake-news/</loc>
       <lastmod>2017-06-16T00:00:00+00:00</lastmod>
     </url>
@@ -77,42 +86,6 @@
     
     <url>
     
-      <loc>http://a.ngel.es/post/getting-started/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://a.ngel.es/post/widgets/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://a.ngel.es/post/managing-content/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://a.ngel.es/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://a.ngel.es/post/wayrasimilarities/</loc>
       <lastmod>2015-05-14T23:38:19-05:00</lastmod>
     </url>
@@ -142,15 +115,6 @@
     
       <loc>http://a.ngel.es/about/</loc>
       <lastmod>2015-05-13T13:23:46-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://a.ngel.es/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -217,18 +181,8 @@
     
     <url>
     
-      <loc>http://a.ngel.es/tags/hugo/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://a.ngel.es/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      <loc>http://a.ngel.es/tags/mobile/</loc>
+      <lastmod>2017-08-12T08:10:44-05:00</lastmod>
       <priority>0</priority>
     </url>
     

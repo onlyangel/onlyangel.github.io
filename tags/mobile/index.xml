@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on </title>
+    <link>http://a.ngel.es/tags/mobile/</link>
+    <description>Recent content in Mobile on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Jose Angel Espinoza Portillo</copyright>
+    <lastBuildDate>Sat, 12 Aug 2017 08:10:44 -0500</lastBuildDate>
+    <atom:link href="/tags/mobile/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mexico&#39;s Dominos Pizza new app cost 65 million mexican pesos</title>
+      <link>http://a.ngel.es/post/dominosapp/</link>
+      <pubDate>Sat, 12 Aug 2017 08:10:44 -0500</pubDate>
+      
+      <guid>http://a.ngel.es/post/dominosapp/</guid>
+      <description>&lt;p&gt;Wao I clearly remember a few years ago that my friend from the Tequila Digital Agency (Specifically Abraham Tonix &lt;a href=&#34;https://twitter.com/abitonix&#34; target=&#34;_blank&#34;&gt;@abitonix&lt;/a&gt; ) convinced Domino&amp;rsquo;s Pizza in Mexico to create their first iOS app. Those were times where for the backend a simple Wordpress installation with a plugin can become a data provider for an app and there were not more requirements than maintaining that server. And also this times people don&amp;rsquo;t trust in mobile technology this wasn&amp;rsquo;t a thing. And now I am proud that Domino&amp;rsquo;s is going to release a version of their app where they invest &lt;a href=&#34;http://expansion.mx/tecnologia/2017/08/10/dominos-invierte-65-millones-de-pesos-en-relanzamiento-de-app&#34; target=&#34;_blank&#34;&gt;65 million pesos&lt;/a&gt;. But nowadays is a no brainier to do this sort of things, specially from a brand this big.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
